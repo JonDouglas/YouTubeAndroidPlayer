@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="YouTubeAndroidPlayer.Demo/MainActivity.cs">
+    <Files>
+      <File FileName="YouTubeAndroidPlayer.Demo/MainActivity.cs" Line="14" Column="14" />
+      <File FileName="YouTubeAndroidPlayer.Demo/YouTubeFailureRecoveryActivity.cs" Line="29" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
